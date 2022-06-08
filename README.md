@@ -1,1 +1,1 @@
-[# rssscool-cv](https://1991wowa.github.io/rssschool-cv/cv)
+https://github.com/1991wowa/rssscool-cv/blob/gh-pages/cv.md
